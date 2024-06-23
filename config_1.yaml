@@ -1,0 +1,6 @@
+path: C:\Users\wysy\Downloads\data yolov8 masks
+train: images\train
+val: images\val
+
+nc: 1
+names: ['ship']
